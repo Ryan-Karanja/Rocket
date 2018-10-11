@@ -1,3 +1,8 @@
+/**
+   Get Forked Ryan
+**/
+
+
 import java.util.Scanner;
 
 public class rocket{
@@ -38,7 +43,9 @@ public class rocket{
 
         }
 
-
+/**
+   I know where you live
+**/
 
    }
    public static void topHalf(int userIn){
@@ -79,7 +86,9 @@ public class rocket{
            }
            for(int periods = 0; periods < row * 2; periods++){ // this loop prints the periods in the middle of the left and right slashes
                System.out.print(".");
-
+/**
+   Don't even think about finding out who I am.
+**/
            }
 
            for(int slash = userIn; slash > row; slash--){ // this loop prints the periods in the right side of the ship
