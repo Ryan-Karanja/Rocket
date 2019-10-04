@@ -1,3 +1,3 @@
 # Rocket
 
-print("Hello");
+> Hello World
