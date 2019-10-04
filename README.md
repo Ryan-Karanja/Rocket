@@ -1,1 +1,3 @@
 # Rocket
+
+print("Hello");
