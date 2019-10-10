@@ -33,7 +33,7 @@ public class rocket{
               for(int slash = 0; slash <= row; slash++){ // this loop prints out the slashes to the right of the stars of the cone.
                   System.out.print("\\");
              }
-             System.out.println();
+             System.out.println(ryan);
 
 
         }
